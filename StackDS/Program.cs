@@ -20,7 +20,6 @@ namespace StackDS
             count = stack.Count();
             stack.Push("d");
 
-
         }
     }
 }
